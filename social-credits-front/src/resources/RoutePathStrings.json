@@ -1,0 +1,14 @@
+{
+  "connection": "https://0b05-81-163-126-140.ngrok-free.app",
+  "userlogin": "/user/login",
+  "userregistrationimagename": "/user/registrationimagename",
+  "userregistrationimage": "/user/registrationimage",
+  "getuserbytoken": "/user/getuserbytoken",
+  "getuserslist": "/user/getuserslist",
+  "imageslink": "https://ranobelibrary.fun/socialcreditsimages/",
+  "imagedlinks": [
+    "catprofileimage.jpg",
+    "profileimagegirl.jpg",
+    "testphotoforsocialcredits.jpg"
+  ]
+}

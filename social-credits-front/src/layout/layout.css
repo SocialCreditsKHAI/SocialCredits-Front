@@ -1,0 +1,62 @@
+.header-div {
+    height: 72px;
+    align-items: center;
+    background-color: #111111;
+    display: flex;
+    justify-content: center;
+    flex-flow: row;
+}
+.header-title {
+    font-family: "Original Surfer", sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    margin: 0px 5px;
+    text-decoration-line: none;
+}
+.logo-image {
+    height: 50px;
+    width: 61px;
+    object-fit: fill;
+}
+.logo-left {
+    transform:scaleX(-1)
+}
+.logo-right{
+
+}
+.user-data-on-header {
+    position: fixed;
+    height: 72px;
+    top: 0%;
+    right: 0%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+}
+.user-data-on-header-user-picture {
+    width: 56px;
+    height: 56px;
+    border-radius:90px;
+    object-fit: cover;
+    background-color: #111111;
+    margin-left:16px;
+    margin-right:16px;
+}
+.user-data-on-header-user-credits{
+    font-size:50px;
+    margin:0px;
+    
+}
+.user-data-on-header-user-credits-green {
+    color: #009D00;
+}
+.user-data-on-header-user-credits-red {
+    color: #C70000;
+}
+.user-data-on-header-user-credits-white {
+    color: white;
+}
+.user-data-on-header-unactive{
+    visibility:hidden;
+}

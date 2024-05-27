@@ -1,0 +1,2 @@
+D:\my projects\react\SocialCreditsFront\social-credits-front\social-credits-front\obj\Release\social-credits-front.esproj.SuggestedBindingRedirects.cache
+D:\my projects\react\SocialCreditsFront\social-credits-front\social-credits-front\obj\Release\social-credits-front.esproj.CoreCompileInputs.cache

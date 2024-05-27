@@ -1,0 +1,65 @@
+body {
+
+}
+.main-page-container {
+    display:flex;
+    flex-flow:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.main-page-people {
+    width:958px;
+    height:max-content;
+    display:flex;
+    justify-content:center;
+    border-radius:50px;
+    margin-top:30px;
+    padding:0px;
+    flex-flow:column;
+    background-color:#111111;
+}
+.main-page-people-info {
+    display: flex;
+    flex-flow: row;
+    justify-content:space-between;
+}
+
+.main-page-people-info-name {
+    font-size: 35px;
+    color:white;
+    text-align:start;
+}
+
+.main-page-people-profile-pic-image {
+    width: 95px;
+    height: 95px;
+    vertical-align: middle;
+    margin:auto 35px;
+    object-fit: cover;
+    border-radius: 90px;
+}
+.main-page-people-info-credits-container {
+    display: flex;
+    flex-flow: row;
+    margin:auto 35px;
+}
+.main-page-people-info-credits {
+    font-size: 100px;
+    margin: 0px 10px;
+}
+.main-page-people-info-socials-container{
+    height:max-content;
+}
+.main-page-people-info-name-socials-container{
+    width:100%;
+}
+.credits-white{
+    color:white;
+}
+.credits-red {
+    color: #C70000;
+}
+.credits-green {
+    color: #009D00;
+}
